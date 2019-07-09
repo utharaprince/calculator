@@ -1,0 +1,72 @@
+#b {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 3px;
+}
+
+#d1 {
+    float: right;
+    margin-top: 200px
+}
+
+#b1 {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 3px;
+}
+
+#b2 {
+    padding: 3px;
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+    display: block;
+}
+
+body {
+    background-color: black
+}
+
+#main {
+    color: blanchedalmond;
+    text-align: center;
+}
+
+#d3 {
+    margin-top: 200px;
+}
+
+#let1 {
+    width: 50px;
+    height: 50px;
+    margin-left: 1200px
+}
+
+#let2 {
+    width: 50px;
+    height: 50px;
+    right: 60px;
+    margin-right: 30px;
+    margin-top: 50px
+}
+
+#let3 {
+    height: 50px;
+    width: 300px;
+    margin-left: 580px;
+    top: 80px;
+}
+
+#d4 {
+    float: right;
+}
+
+#bn,
+#bo,
+#bp {
+    width: 50px;
+    height: 50px;
+    display: block;
+}
